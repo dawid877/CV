@@ -1,18 +1,14 @@
 # Dawid Grzesiak
 
----
-
-<div align="center">
-
 **MSc Student in Data Science & Business Analytics**  
 **Procurement Specialist at EY**  
 Warsaw, Poland  
 📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dawid-grzesiak/) • [Project Portfolio](https://dawid877.github.io/portfolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/dawid-grzesiak/) | [Project Portfolio](https://dawid877.github.io/portfolio/)
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 **University of Warsaw**  
 _MSc in Data Science & Business Analytics (Evening Mode)_  
@@ -24,7 +20,7 @@ _Bachelor’s in Accounting and Finance_
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 **EY** – Procurement Specialist  
 _Sept 2023 – Present_
@@ -34,7 +30,3 @@ _Feb 2023 – Aug 2023_
 
 **Accenture Poland** – IT Intern  
 _Jun 2022 – Aug 2022_
-
----
-
-</div>
